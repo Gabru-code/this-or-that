@@ -1,0 +1,41 @@
+.box1{
+    flex-direction:row;
+    background-color:#41A0DD ;
+    margin-left: 50%;
+    justify-content: center;
+    display: flex;
+    border-radius: 10px;
+    
+    
+    
+    
+
+}
+
+h1{ 
+    color:black;
+    font-weight:'bold';
+    text-align: center;
+}
+h2{
+    font-size: 40px;
+}
+.box2{
+    font-size: larger;
+    flex-direction: row;
+    background-color:#F72E36;
+    margin-right: 50%;
+    border-radius: 10px;
+    justify-content:center;
+    display: flex;
+    
+    
+}
+.container{
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+    width: 1880px;
+    margin-left: 0px;
+    height: 800px;
+    margin-top: ;
+}
